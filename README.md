@@ -27,7 +27,7 @@
 
 ## **系列导航（持续更新）**
 
-第 0 章（本篇）：序言
+[第 0 章：序言](https://blog.csdn.net/weixin_44606139/article/details/150704760?spm=1001.2014.3001.5502)
 
 [第 1 章：Introduction](https://blog.csdn.net/weixin_44606139/article/details/150703859?spm=1001.2014.3001.5501)
 
