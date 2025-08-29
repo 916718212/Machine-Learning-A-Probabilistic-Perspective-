@@ -51,4 +51,14 @@
 
 [第 11 章：Mixture models and the EM algorithm](https://blog.csdn.net/weixin_44606139/article/details/150708120?spm=1001.2014.3001.5501)
 
+[第 12 章：Latent linear models](https://blog.csdn.net/weixin_44606139/article/details/150980632?spm=1001.2014.3001.5501)
+
+[第 13 章：Sparse linear models](https://blog.csdn.net/weixin_44606139/article/details/150980733?spm=1001.2014.3001.5501)
+
+[第 14 章：Kernels](https://blog.csdn.net/weixin_44606139/article/details/150980823?spm=1001.2014.3001.5501)
+
+[第 15 章：Gaussian processes](https://blog.csdn.net/weixin_44606139/article/details/150980865?spm=1001.2014.3001.5501)
+
+[第 16 章：Adaptive basis function models](https://blog.csdn.net/weixin_44606139/article/details/150980910?spm=1001.2014.3001.5501)
+
 待更新。。。
