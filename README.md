@@ -61,4 +61,28 @@
 
 [第 16 章：Adaptive basis function models](https://blog.csdn.net/weixin_44606139/article/details/150980910?spm=1001.2014.3001.5501)
 
+[第 17 章：Markov and hidden Markov models](https://blog.csdn.net/weixin_44606139/article/details/151310056?spm=1001.2014.3001.5501)
+
+[第 18 章：State space models](https://blog.csdn.net/weixin_44606139/article/details/151310113?spm=1001.2014.3001.5501)
+
+[第 19 章：Undirected graphical models](https://blog.csdn.net/weixin_44606139/article/details/151310180?spm=1001.2014.3001.5501)
+
+[第 20 章：Exact inference for graphical models](https://blog.csdn.net/weixin_44606139/article/details/151310215?spm=1001.2014.3001.5501)
+
+[第 21 章：Variational inference](https://blog.csdn.net/weixin_44606139/article/details/151310252?spm=1001.2014.3001.5501)
+
+[第 22 章：More variational inference](https://blog.csdn.net/weixin_44606139/article/details/151310282?spm=1001.2014.3001.5501)
+
+[第 23 章：Monte Carlo inference](https://blog.csdn.net/weixin_44606139/article/details/151310344?spm=1001.2014.3001.5501)
+
+[第 24 章：Markov chain Monte Carlo (MCMC) inference](https://blog.csdn.net/weixin_44606139/article/details/151310391?spm=1001.2014.3001.5501)
+
+[第 25 章：Clustering](https://blog.csdn.net/weixin_44606139/article/details/151310441?spm=1001.2014.3001.5501)
+
+[第 26 章：Graphical model structure learning](https://blog.csdn.net/weixin_44606139/article/details/151310489?spm=1001.2014.3001.5501)
+
+[第 27 章：Latent variable models for discrete data](https://blog.csdn.net/weixin_44606139/article/details/151310532?spm=1001.2014.3001.5501)
+
+[第 28 章：Deep learning](https://blog.csdn.net/weixin_44606139/article/details/151310580?spm=1001.2014.3001.5501)
+
 待更新。。。
